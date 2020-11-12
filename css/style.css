@@ -61,25 +61,26 @@
 .product{
     width: 20%;
     display: flexbox;
-    background-color: gainsboro;
+    background-color: rgb(241, 241, 241);
     padding: 10px;
     text-align: center;
     float: left;
     margin-right: 15px;
     margin-left: 15px;
     border-radius: 10px;
+    padding-bottom: 15px;
 }
 
 .product img{
     height: 250px;
     width: 80%;
-    margin-bottom: 5px;
 
 }
 
 .product p{
     font-size: 18px;
     text-align: center;
+    margin-top: 10px;
 }
 
 .product a{
