@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.menu{
+    width: 100%;
+    background-color: gainsboro;  
+    position: fixed;
+    margin-top: 0%;
+}
+
+.main-menu{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-menu li{
+    display: inline-block;
+    background-color: gainsboro;  
+    padding: 20px 50px;
+    margin: 0px;   
+    font-size: larger;
+      
+}
+
+.main-menu li:hover{
+    display: inline;
+    background-color: orange; 
+    padding: 20px 50px;
+    margin: 0px;   
+    font-size: larger;
+}
+
+.para{
+    padding-top: 70px;
+}
