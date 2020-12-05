@@ -1,9 +1,4 @@
-/*
- * OKZoom by OKFocus v1.2
- * http://okfoc.us // @okfocus
- * Copyright 2012 OKFocus
- * Licensed under the MIT License
-**/
+
 
 $(function($){
 
